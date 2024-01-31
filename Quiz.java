@@ -77,7 +77,7 @@ public class Main {
                 new String[]{"Paris", "London", "Berlin", "Rome"}, 0),
             new QuizQuestion("What is the largest mammal?",
                 new String[]{"Elephant", "Blue Whale", "Giraffe", "Hippo"}, 1),
-            // Add more questions here
+           
         };
         
         Quiz quiz = new Quiz(questions);
